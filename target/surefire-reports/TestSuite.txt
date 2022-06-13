@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 275, Failures: 9, Errors: 0, Skipped: 266, Time elapsed: 25.197 s <<< FAILURE! - in TestSuite
+createUserCompany(com.airtel.RestAssured.Adtech.Tests.sms.AudienceTest)  Time elapsed: 7.635 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.airtel.RestAssured.Adtech.Tests.sms.AudienceTest.createUserCompany(AudienceTest.java:124)
+
+demo(com.airtel.RestAssured.Adtech.Tests.sms.DemoTest)  Time elapsed: 0.154 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.airtel.RestAssured.Adtech.Tests.sms.DemoTest.demo(DemoTest.java:14)
+
+createUserCompany(com.airtel.RestAssured.Adtech.Tests.sms.CampaignTest)  Time elapsed: 2.265 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.airtel.RestAssured.Adtech.Tests.sms.CampaignTest.createUserCompany(CampaignTest.java:142)
+
+createUserCompany(com.airtel.RestAssured.Adtech.Tests.sms.SmsDLTTest)  Time elapsed: 4.253 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.airtel.RestAssured.Adtech.Tests.sms.SmsDLTTest.createUserCompany(SmsDLTTest.java:124)
+
+createUserCompany(com.airtel.RestAssured.Adtech.Tests.sms.AdminTest)  Time elapsed: 6.204 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.airtel.RestAssured.Adtech.Tests.sms.AdminTest.createUserCompany(AdminTest.java:156)
+
+createUserCompany(com.airtel.RestAssured.Adtech.Tests.sms.AnalyticsTimeSlotTest)  Time elapsed: 8.451 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.airtel.RestAssured.Adtech.Tests.sms.AnalyticsTimeSlotTest.createUserCompany(AnalyticsTimeSlotTest.java:145)
+
+createUserCompany(com.airtel.RestAssured.Adtech.Tests.billing.InvoiceTest)  Time elapsed: 10.633 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.airtel.RestAssured.Adtech.Tests.billing.InvoiceTest.createUserCompany(InvoiceTest.java:131)
+
+setEnvironment(com.airtel.RestAssured.Adtech.Tests.billing.ReceiptTest)  Time elapsed: 15.054 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "String.toCharArray()" because "val" is null
+	at com.airtel.RestAssured.Adtech.Tests.billing.ReceiptTest.setEnvironment(ReceiptTest.java:99)
+
+createUserCompany(com.airtel.RestAssured.Adtech.Tests.sms.TestSMSApiTest)  Time elapsed: 17.166 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.airtel.RestAssured.Adtech.Tests.sms.TestSMSApiTest.createUserCompany(TestSMSApiTest.java:91)
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" parallel="classes" thread-count="1">
+	
+	<test name="adtech-billingvoice-in">
+		<classes>
+		<class name="com.airtel.RestAssured.Adtech.Tests.billing.InvoiceTest"></class>
+	</classes>
+	</test>
+	<test name="adtech-billing-receipt">
+		<classes>
+		
+		<class name="com.airtel.RestAssured.Adtech.Tests.billing.ReceiptTest"></class>
+		
+		</classes>
+	</test>
+</suite>

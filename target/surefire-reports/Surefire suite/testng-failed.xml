@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Surefire suite]" verbose="0">
+  <test name="Surefire test(failed)">
+    <classes>
+      <class name="com.airtel.RestAssured.Adtech.Tests.sms.AudienceTest">
+        <methods>
+          <include name="verifyApproveAudience"/>
+          <include name="verifyAudienceonUpdatedOrder"/>
+          <include name="beforeSuite"/>
+          <include name="setEnvironment"/>
+          <include name="createCamapignandVerifyAudienceinMongo"/>
+          <include name="fetchAudience"/>
+          <include name="createinitialHTMLReport"/>
+          <include name="afterSuite"/>
+          <include name="createUserCompany"/>
+          <include name="appendFinalHTMLReport"/>
+          <include name="getAudienceCount"/>
+        </methods>
+      </class> <!-- com.airtel.RestAssured.Adtech.Tests.sms.AudienceTest -->
+      <class name="com.airtel.RestAssured.Adtech.Tests.sms.SmsDLTTest">
+        <methods>
+          <include name="headerIdwithMultipleTemplates"/>
+          <include name="createUserCompany"/>
+          <include name="registerDltMultipleTimeswithSingleUser"/>
+          <include name="afterSuite"/>
+          <include name="registerDLTwithPeid"/>
+          <include name="appendFinalHTMLReport"/>
+          <include name="validateCampaignandDLTWithSubmittedStatus"/>
+          <include name="sendOtp"/>
+          <include name="registerandvalidateDlt"/>
+          <include name="beforeSuite"/>
+          <include name="incorrectPanExtension"/>
+          <include name="createinitialHTMLReport"/>
+          <include name="registerDltwithDraftStatus"/>
+          <include name="approveandverifyCampignandDLTwithPan"/>
+          <include name="approveandverifyCampignandDLTwithPeid"/>
+          <include name="verifyPeidWithInvalidData"/>
+          <include name="validateOtp"/>
+          <include name="registerDltandCampaignwithDraftStatus"/>
+          <include name="setEnvironment"/>
+        </methods>
+      </class> <!-- com.airtel.RestAssured.Adtech.Tests.sms.SmsDLTTest -->
+      <class name="com.airtel.RestAssured.Adtech.Tests.sms.CampaignTest">
+        <methods>
+          <include name="createOrderWithNewTemplate"/>
+          <include name="setEnvironment"/>
+          <include name="verifyRandomTemplatewithHeader"/>
+          <include name="verifySchedulerwithFileCreationEvent"/>
+          <include name="afterSuite"/>
+          <include name="submitCampaignandValidatewithPan"/>
+          <include name="createCamapignwithIncorrectTemplateId"/>
+          <include name="orderwithInvalidIndustry"/>
+          <include name="cretaOrderWithUnregisteredHeader"/>
+          <include name="appendFinalHTMLReport"/>
+          <include name="verifySchedulerwithFailedStatus"/>
+          <include name="multiCampaignswithSubmittedStatus"/>
+          <include name="panOrderWithMultipleHeaders"/>
+          <include name="beforeSuite"/>
+          <include name="createinitialHTMLReport"/>
+          <include name="registerNewTemplatewithDLT"/>
+          <include name="panOrderWithNewTemplate"/>
+          <include name="createUserCompany"/>
+          <include name="verifySchedulerwithCompletedStatus"/>
+          <include name="createOrderWithoutDLT"/>
+          <include name="createOrderWithmultipleTemplatewithSingleHeader"/>
+          <include name="fetchandSubmitCampaign"/>
+          <include name="calculateBudgetandcreateOrder"/>
+          <include name="fetchOrderListandValidate"/>
+          <include name="verifySchedulerwithDummyEvent"/>
+          <include name="submitCampaignandValidatewithPeid"/>
+          <include name="multipleCampaignWithDLTapproved"/>
+          <include name="createCamapignwithCurrentDate"/>
+          <include name="createOrderWithMultipleHeaders"/>
+          <include name="registerHeaderWithoutDLT"/>
+          <include name="orderWithInvalidIndustryinBudgetApi"/>
+          <include name="updateExistingCampaign"/>
+        </methods>
+      </class> <!-- com.airtel.RestAssured.Adtech.Tests.sms.CampaignTest -->
+      <class name="com.airtel.RestAssured.Adtech.Tests.sms.AdminTest">
+        <methods>
+          <include name="verifyNotifyUserWithoutPeid"/>
+          <include name="verifyTagPeidWithDraftDLT"/>
+          <include name="afterSuite"/>
+          <include name="validateFetchDLTWithPeidCampaign"/>
+          <include name="campaignListWithNullLimit"/>
+          <include name="dltListByPageLimitAndSort"/>
+          <include name="getDLTByIncorrectSearch"/>
+          <include name="verifyNotifyUserWithCampaign"/>
+          <include name="appendFinalHTMLReport"/>
+          <include name="getDLTByPartialSearchWithName"/>
+          <include name="getDLTSearchWithCompany"/>
+          <include name="beforeSuite"/>
+          <include name="createinitialHTMLReport"/>
+          <include name="reviseDLTDraft"/>
+          <include name="reviseDLTandUpdateDoc"/>
+          <include name="dltListWithMaxPageNo"/>
+          <include name="campaignListByPageLimitAndSortDesc"/>
+          <include name="reviseDLTVerified"/>
+          <include name="verifyAdminApproveNewTemplate"/>
+          <include name="verifyTagPeidForDLTVerifiedStatus"/>
+          <include name="getDLTBySearchWithEmail"/>
+          <include name="verifyAdminApproveDLTwithPan"/>
+          <include name="campaignListWithZeroLimit"/>
+          <include name="verifyFetchDLTDetailswithPan"/>
+          <include name="verifySubmissionNullDateinFetchDLT"/>
+          <include name="campaignListWithNullOffset"/>
+          <include name="verifyTagPeidInCampaign"/>
+          <include name="verifyAdminApproveDLTwithPeid"/>
+          <include name="setEnvironment"/>
+          <include name="campaignListWithZeroPageNo"/>
+          <include name="revisecampaignApproved"/>
+          <include name="createUserCompany"/>
+          <include name="campaignListByPageLimitAndSort"/>
+          <include name="verifyTagPeid"/>
+          <include name="reviseCampaignDraft"/>
+          <include name="reviseandUpdateCampaign"/>
+          <include name="verifyDownloadFileNegative"/>
+          <include name="getCampaignByPartialTemplateSearch"/>
+          <include name="getCampaignSearchWithTitle"/>
+          <include name="verifyAdminApprovePanOrderWithNewTemplate"/>
+          <include name="verifyAdminApproveDuplicateHeader"/>
+          <include name="verifyDownloadFile"/>
+          <include name="verifyNotifyUser"/>
+        </methods>
+      </class> <!-- com.airtel.RestAssured.Adtech.Tests.sms.AdminTest -->
+      <class name="com.airtel.RestAssured.Adtech.Tests.sms.AnalyticsTimeSlotTest">
+        <methods>
+          <include name="invalidTimeSlot"/>
+          <include name="fetchAnalyticsAdmin"/>
+          <include name="verifylinkScehdulerforApprovedOrders"/>
+          <include name="createUserCompany"/>
+          <include name="afterSuite"/>
+          <include name="validateLinkTracking"/>
+          <include name="fetchAnalytics"/>
+          <include name="futureDatedCampaignDuration"/>
+          <include name="appendFinalHTMLReport"/>
+          <include name="verifyTimeSlotPositiveCase"/>
+          <include name="beforeSuite"/>
+          <include name="invalidTimeSlotFormat"/>
+          <include name="setEnvironment"/>
+          <include name="timeSlotWithTweleveHourWindow"/>
+          <include name="verifylinkSchedulerforValidityExpired"/>
+          <include name="outdatedCampaignDuration"/>
+          <include name="verifyIncorrectURlinSubmitCampaign"/>
+          <include name="createinitialHTMLReport"/>
+          <include name="verifyValidityinDays"/>
+          <include name="timeSlotAfterNine"/>
+        </methods>
+      </class> <!-- com.airtel.RestAssured.Adtech.Tests.sms.AnalyticsTimeSlotTest -->
+      <class name="com.airtel.RestAssured.Adtech.Tests.billing.ReceiptTest">
+        <methods>
+          <include name="initiatePaymentwithInvalidAmount"/>
+          <include name="duplicateEvent"/>
+          <include name="validateInvoiceReceiptWithLessInvoiceAmount"/>
+          <include name="verifyReceiptswithGreaterAmountThanInvoice"/>
+          <include name="verifyValidateAPITwice"/>
+          <include name="validateInitiatePaymentSuccess"/>
+          <include name="afterSuite"/>
+          <include name="initiatePaymentOnProceesedStatus"/>
+          <include name="appendFinalHTMLReport"/>
+          <include name="verifyReceiptsforMultipleInvoiceswithPendingReceipts"/>
+          <include name="validateInvoiceAndReceipt"/>
+          <include name="createUserCompany"/>
+          <include name="verifyReceiptsforMultipleInvoices"/>
+          <include name="beforeSuite"/>
+          <include name="initiatePaymentOnPartialPaidInvoice"/>
+          <include name="initiatePaymentWithMultipleInvoices"/>
+          <include name="validateInitiatePaymentFailure"/>
+          <include name="setEnvironment"/>
+          <include name="createinitialHTMLReport"/>
+          <include name="initiatePaymentWithInvalidEvent"/>
+        </methods>
+      </class> <!-- com.airtel.RestAssured.Adtech.Tests.billing.ReceiptTest -->
+      <class name="com.airtel.RestAssured.Adtech.Tests.sms.DemoTest">
+        <methods>
+          <include name="demo"/>
+        </methods>
+      </class> <!-- com.airtel.RestAssured.Adtech.Tests.sms.DemoTest -->
+      <class name="com.airtel.RestAssured.Adtech.Tests.sms.TestSMSApiTest">
+        <methods>
+          <include name="testSMSSend"/>
+          <include name="setEnvironment"/>
+          <include name="afterSuite"/>
+          <include name="testSMSIncorrectHeaderId"/>
+          <include name="testSMSwithMultipleTemplates"/>
+          <include name="appendFinalHTMLReport"/>
+          <include name="testSMSTrackCount"/>
+          <include name="testSMSBlankBody"/>
+          <include name="beforeSuite"/>
+          <include name="testSMSIncorrectTemplateId"/>
+          <include name="testSMSInvalidPhoneNumber"/>
+          <include name="createinitialHTMLReport"/>
+          <include name="testSMSExpiryDate"/>
+          <include name="testSMSWithDraftStatus"/>
+          <include name="testSMSWithSubmittedStatus"/>
+          <include name="testSMSIncorrectTemplateContent"/>
+          <include name="createUserCompany"/>
+        </methods>
+      </class> <!-- com.airtel.RestAssured.Adtech.Tests.sms.TestSMSApiTest -->
+      <class name="com.airtel.RestAssured.Adtech.Tests.billing.InvoiceTest">
+        <methods>
+          <include name="verifyTdsNegValue"/>
+          <include name="fetchInvoiceWithoutCloseFlag"/>
+          <include name="verifyTdsasNullValue"/>
+          <include name="afterSuite"/>
+          <include name="verifyTdsuptoThreeDecimcalValue"/>
+          <include name="appendFinalHTMLReport"/>
+          <include name="fetchTransaction"/>
+          <include name="verifyInitiatewithIncorrectUserId"/>
+          <include name="setEnvironment"/>
+          <include name="fetchInvoices"/>
+          <include name="createUserCompany"/>
+          <include name="fetchReceipts"/>
+          <include name="beforeSuite"/>
+          <include name="verifyValidateAdtechBillingApi"/>
+          <include name="fetchInvoiceForInvalidPayment"/>
+          <include name="createinitialHTMLReport"/>
+          <include name="fetchInvoiceAfterValidatePayment"/>
+          <include name="verifyInitiatewithIncorrectCompany"/>
+          <include name="verifyInitiatewithoutUser"/>
+          <include name="verifyTdsGreaterThanTenValue"/>
+          <include name="verifyTransactionStatus"/>
+          <include name="verifyTdsuptoTwoDecimcalValue"/>
+          <include name="fetchInvoiceAfterFailurePayment"/>
+        </methods>
+      </class> <!-- com.airtel.RestAssured.Adtech.Tests.billing.InvoiceTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

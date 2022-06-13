@@ -1,0 +1,12 @@
+2022-05-12 14:40:12,032 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@b2c5e07
+ 2022-05-12 14:47:59,002 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@4b14918a
+ 2022-05-12 14:48:19,138 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@1941a8ff
+ 2022-05-12 14:50:31,060 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@71529963
+ 2022-05-12 14:56:15,826 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@71529963
+ 2022-05-12 14:59:49,028 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@176b3f44
+ 2022-05-12 15:10:01,079 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@1a6c1270
+ 2022-05-12 15:18:29,980 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6dee4f1b
+ 2022-05-12 15:22:04,271 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@5d12a356
+ 2022-05-12 15:37:18,030 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@1a760689
+ 2022-05-12 15:43:15,911 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@2b4c1d96
+ 
