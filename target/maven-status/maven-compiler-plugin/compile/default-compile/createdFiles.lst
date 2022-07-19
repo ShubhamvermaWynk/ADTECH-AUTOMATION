@@ -1,8 +1,13 @@
-com/Adtech/adspersonalization/PersonlaizationAdaptorImpl.class
-com/Adtech/common/variables/InitOrderVariables.class
-com/Adtech/adspersonalization/PersonlaizationAdaptor.class
+com/Adtech/dto/personalization/GetOrderListResponseDTO.class
+com/Adtech/adaptor/personalization/PersonlaizationAdaptor.class
 com/Adtech/common/variables/OrderGlobalVariables.class
+com/Adtech/dto/personalization/AdspotCampaignDTO.class
+com/Adtech/constants/AdtechApiConstants.class
+com/Adtech/manager/PersonalizationApiManager.class
+com/Adtech/dto/personalization/GetOrderListRequestDTO.class
+com/Adtech/common/variables/InitOrderVariables.class
+com/Adtech/dto/personalization/UserDetailsDTO.class
 com/Adtech/common/dto/request/DbRequestDto.class
 com/common/utils/CommonApi.class
-com/Adtech/constants/AdtechApiConstants.class
+com/Adtech/adaptor/personalization/PersonlaizationAdaptorImpl.class
 com/Adtech/enums/DbType.class
