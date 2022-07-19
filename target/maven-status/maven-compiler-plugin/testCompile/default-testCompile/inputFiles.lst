@@ -1,9 +1,1 @@
-/Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/src/test/java/com/airtel/RestAssured/Adtech/Tests/sms/AdminTest.java
-/Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/src/test/java/com/airtel/RestAssured/Adtech/Tests/billing/InvoiceTest.java
-/Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/src/test/java/com/airtel/RestAssured/Adtech/Tests/sms/CampaignTest.java
-/Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/src/test/java/com/airtel/RestAssured/Adtech/Tests/sms/AudienceTest.java
-/Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/src/test/java/com/airtel/RestAssured/Adtech/Tests/sms/DemoTest.java
-/Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/src/test/java/com/airtel/RestAssured/Adtech/Tests/sms/TestSMSApiTest.java
-/Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/src/test/java/com/airtel/RestAssured/Adtech/Tests/billing/ReceiptTest.java
-/Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/src/test/java/com/airtel/RestAssured/Adtech/Tests/sms/AnalyticsTimeSlotTest.java
-/Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/src/test/java/com/airtel/RestAssured/Adtech/Tests/sms/SmsDLTTest.java
+/Users/b0208627/Documents/Adtech_MatchApi_Automation/src/test/java/com/adtech/restAssured/tests/personalisation/PersonalisationTest.java
