@@ -1,7 +1,7 @@
 package com.airtel.adtech.adaptor.billing;
 import java.math.BigDecimal;
 import java.util.List;
-import java.util.Map;
+
 
 import com.airtel.adtech.dto.response.billing.InitiatePaymentResponseDTO;
 import com.airtel.adtech.dto.response.billing.InvoiceListDTO;
@@ -27,10 +27,4 @@ public interface BillingAdAdaptor {
 			int expectedStatusCode, String uniqueIdentifier);
 	
 	
-	
-	
-	
-	
-	
-
 }

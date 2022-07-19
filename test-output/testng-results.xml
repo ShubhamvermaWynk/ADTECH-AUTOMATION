@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><a href='./Requests/Requests__a9dbe5f3-de11-4d5b-9c38-3a4938e92e28.json'>Request_</a><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><a href='./Responses/Responses__b5c4a3ad-20dc-4e28-a8a3-3cc65abf7a6a.json'>Response_</a><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1548" started-at="2022-07-19T11:28:38Z" finished-at="2022-07-19T11:28:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1548" started-at="2022-07-19T11:28:38Z" finished-at="2022-07-19T11:28:39Z">
+      <class name="com.Adtech.Authentication.Test.AuthenticationTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Adtech.Authentication.Test.AuthenticationTest@c667f46]" name="beforeSuite" is-config="true" duration-ms="16" started-at="2022-07-19T16:58:38Z" finished-at="2022-07-19T16:58:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="createinitialHTMLReport(java.lang.reflect.Method)[pri:0, instance:com.Adtech.Authentication.Test.AuthenticationTest@c667f46]" name="createinitialHTMLReport" is-config="true" duration-ms="1" started-at="2022-07-19T16:58:38Z" finished-at="2022-07-19T16:58:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Adtech.Authentication.Test.AuthenticationTest.TestAuthenticationAPI()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createinitialHTMLReport -->
+        <test-method status="PASS" signature="TestAuthenticationAPI()[pri:0, instance:com.Adtech.Authentication.Test.AuthenticationTest@c667f46]" name="TestAuthenticationAPI" duration-ms="1531" started-at="2022-07-19T16:58:38Z" finished-at="2022-07-19T16:58:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><a href='./Requests/Requests__a9dbe5f3-de11-4d5b-9c38-3a4938e92e28.json'>Request_</a><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><a href='./Responses/Responses__b5c4a3ad-20dc-4e28-a8a3-3cc65abf7a6a.json'>Response_</a><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestAuthenticationAPI -->
+        <test-method status="PASS" signature="appendFinalHTMLReport(org.testng.ITestResult)[pri:0, instance:com.Adtech.Authentication.Test.AuthenticationTest@c667f46]" name="appendFinalHTMLReport" is-config="true" duration-ms="3" started-at="2022-07-19T16:58:39Z" finished-at="2022-07-19T16:58:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestAuthenticationAPI status=SUCCESS method=AuthenticationTest.TestAuthenticationAPI()[pri:0, instance:com.Adtech.Authentication.Test.AuthenticationTest@c667f46] output=<br><a href='./Requests/Requests__a9dbe5f3-de11-4d5b-9c38-3a4938e92e28.json'>Request_</a><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendFinalHTMLReport -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.Adtech.Authentication.Test.AuthenticationTest@c667f46]" name="afterSuite" is-config="true" duration-ms="10221" started-at="2022-07-19T16:58:39Z" finished-at="2022-07-19T16:58:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@102efc59]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Adtech.Authentication.Test.AuthenticationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

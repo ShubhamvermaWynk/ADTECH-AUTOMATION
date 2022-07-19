@@ -31,11 +31,11 @@
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>verifyPeidWithInvalidData</td>
+<td>approveandverifyCampignandDLTwithPan</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>approveandverifyCampignandDLTwithPan</td>
+<td>verifyPeidWithInvalidData</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
@@ -169,11 +169,11 @@
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>verifyDownloadFileNegative</td>
+<td>getCampaignByPartialTemplateSearch</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>getCampaignByPartialTemplateSearch</td>
+<td>verifyDownloadFileNegative</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
@@ -233,15 +233,15 @@
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
+<td>verifyFetchDLTDetailswithPan</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
 <td>reviseDLTandUpdateDoc</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
 <td>reviseDLTDraft</td>
-<td>&nbsp;</td></tr>
-<tr>
-<td>&nbsp;</td>
-<td>verifyFetchDLTDetailswithPan</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td align='center' colspan='3'>@BeforeClass</td>
@@ -323,7 +323,11 @@
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>verifyTransactionStatus</td>
+<td>fetchInvoiceAfterValidatePayment</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>verifyTdsGreaterThanTenValue</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
@@ -331,11 +335,7 @@
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>fetchInvoiceAfterValidatePayment</td>
-<td>&nbsp;</td></tr>
-<tr>
-<td>&nbsp;</td>
-<td>verifyTdsGreaterThanTenValue</td>
+<td>verifyTransactionStatus</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
@@ -374,6 +374,66 @@
 <td align='center' colspan='3'>@AfterClass</td>
 </tr>
 <tr>
+<td>com.airtel.RestAssured.Adtech.Tests.sms.adconfigTest</td>
+<td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@Test</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>demo</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@BeforeClass</td>
+</tr>
+<tr>
+<td align='center' colspan='3'>@BeforeMethod</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>createinitialHTMLReport</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@AfterMethod</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>appendFinalHTMLReport</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@AfterClass</td>
+</tr>
+<tr>
+<td>com.Adtech.Authentication.Test.AuthenticationTest</td>
+<td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@Test</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>TestAuthenticationAPI</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@BeforeClass</td>
+</tr>
+<tr>
+<td align='center' colspan='3'>@BeforeMethod</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>createinitialHTMLReport</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@AfterMethod</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>appendFinalHTMLReport</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td align='center' colspan='3'>@AfterClass</td>
+</tr>
+<tr>
 <td>com.airtel.RestAssured.Adtech.Tests.sms.AnalyticsTimeSlotTest</td>
 <td>&nbsp;</td><td>&nbsp;</td></tr>
 <tr>
@@ -397,15 +457,15 @@
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
+<td>verifyIncorrectURlinSubmitCampaign</td>
+<td>&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
 <td>invalidTimeSlotFormat</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
 <td>outdatedCampaignDuration</td>
-<td>&nbsp;</td></tr>
-<tr>
-<td>&nbsp;</td>
-<td>verifyIncorrectURlinSubmitCampaign</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
@@ -503,11 +563,11 @@
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>testSMSWithDraftStatus</td>
+<td>testSMSInvalidPhoneNumber</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>testSMSInvalidPhoneNumber</td>
+<td>testSMSWithDraftStatus</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
@@ -549,11 +609,11 @@
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>getAudienceCount</td>
+<td>verifyAudienceonUpdatedOrder</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>verifyAudienceonUpdatedOrder</td>
+<td>getAudienceCount</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
@@ -699,11 +759,11 @@
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>registerHeaderWithoutDLT</td>
+<td>createOrderWithMultipleHeaders</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td>&nbsp;</td>
-<td>createOrderWithMultipleHeaders</td>
+<td>registerHeaderWithoutDLT</td>
 <td>&nbsp;</td></tr>
 <tr>
 <td align='center' colspan='3'>@BeforeClass</td>
