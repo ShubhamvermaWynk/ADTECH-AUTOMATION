@@ -1,0 +1,9 @@
+2022-07-18 11:37:25,830 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@50ad3bc1
+ 2022-07-18 11:37:38,178 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-18 11:38:34,419 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@50ad3bc1
+ 2022-07-18 11:38:46,803 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-18 11:43:42,885 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@50ad3bc1
+ 2022-07-18 11:43:55,090 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-18 11:45:02,653 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@50ad3bc1
+ 2022-07-18 11:45:30,901 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 

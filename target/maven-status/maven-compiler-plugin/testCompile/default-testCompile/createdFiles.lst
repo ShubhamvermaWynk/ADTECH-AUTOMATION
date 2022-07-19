@@ -1,9 +1,1 @@
-com/airtel/RestAssured/Adtech/Tests/billing/InvoiceTest.class
-com/airtel/RestAssured/Adtech/Tests/sms/CampaignTest.class
-com/airtel/RestAssured/Adtech/Tests/sms/TestSMSApiTest.class
-com/airtel/RestAssured/Adtech/Tests/billing/ReceiptTest.class
-com/airtel/RestAssured/Adtech/Tests/sms/AudienceTest.class
-com/airtel/RestAssured/Adtech/Tests/sms/AnalyticsTimeSlotTest.class
-com/airtel/RestAssured/Adtech/Tests/sms/SmsDLTTest.class
-com/airtel/RestAssured/Adtech/Tests/sms/AdminTest.class
-com/airtel/RestAssured/Adtech/Tests/sms/DemoTest.class
+com/adtech/restAssured/tests/personalisation/Personalisation.class

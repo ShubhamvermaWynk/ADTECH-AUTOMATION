@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><a href='./Requests/Requests__18c37b77-c787-4aca-a89c-a1f099206a0f.json'>Request_</a><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><a href='./Responses/Responses__7eb3b995-0bc4-4d42-b15a-1dca10dbdf0a.json'>Response_</a><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2333" started-at="2022-07-19T18:20:15 IST" finished-at="2022-07-19T18:20:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2333" started-at="2022-07-19T18:20:15 IST" finished-at="2022-07-19T18:20:18 IST">
+      <class name="com.adtech.restAssured.tests.personalisation.PersonalisationTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.adtech.restAssured.tests.personalisation.PersonalisationTest@4b0d79fc]" name="beforeSuite" is-config="true" duration-ms="22" started-at="2022-07-19T18:20:15 IST" finished-at="2022-07-19T18:20:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="initVariables(java.lang.String)[pri:0, instance:com.adtech.restAssured.tests.personalisation.PersonalisationTest@4b0d79fc]" name="initVariables" is-config="true" duration-ms="13" started-at="2022-07-19T18:20:15 IST" finished-at="2022-07-19T18:20:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[staging]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initVariables -->
+        <test-method status="PASS" signature="createinitialHTMLReport(java.lang.reflect.Method)[pri:0, instance:com.adtech.restAssured.tests.personalisation.PersonalisationTest@4b0d79fc]" name="createinitialHTMLReport" is-config="true" duration-ms="2" started-at="2022-07-19T18:20:15 IST" finished-at="2022-07-19T18:20:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.adtech.restAssured.tests.personalisation.PersonalisationTest.verifyIncorrectMsisdn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createinitialHTMLReport -->
+        <test-method status="PASS" signature="verifyIncorrectMsisdn()[pri:0, instance:com.adtech.restAssured.tests.personalisation.PersonalisationTest@4b0d79fc]" name="verifyIncorrectMsisdn" duration-ms="2283" started-at="2022-07-19T18:20:15 IST" description="Msisdn without B prefix" finished-at="2022-07-19T18:20:18 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><a href='./Requests/Requests__18c37b77-c787-4aca-a89c-a1f099206a0f.json'>Request_</a><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><a href='./Responses/Responses__7eb3b995-0bc4-4d42-b15a-1dca10dbdf0a.json'>Response_</a><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyIncorrectMsisdn -->
+        <test-method status="PASS" signature="appendFinalHTMLReport(org.testng.ITestResult)[pri:0, instance:com.adtech.restAssured.tests.personalisation.PersonalisationTest@4b0d79fc]" name="appendFinalHTMLReport" is-config="true" duration-ms="1" started-at="2022-07-19T18:20:18 IST" finished-at="2022-07-19T18:20:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyIncorrectMsisdn status=SUCCESS method=PersonalisationTest.verifyIncorrectMsisdn()[pri:0, instance:com.adtech.restAssured.tests.personalisation.PersonalisationTest@4b0d79fc] output=<br><a href='./Requests/Requests__18c37b77-c787-4aca-a89c-a1f099206a0f.json'>Request_</a><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendFinalHTMLReport -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.adtech.restAssured.tests.personalisation.PersonalisationTest@4b0d79fc]" name="afterSuite" is-config="true" duration-ms="11409" started-at="2022-07-19T18:20:18 IST" finished-at="2022-07-19T18:20:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@242a209e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.adtech.restAssured.tests.personalisation.PersonalisationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

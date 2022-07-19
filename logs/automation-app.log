@@ -1,361 +1,87 @@
-2022-05-18 11:47:21,677 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@545b995e
- 2022-05-18 11:47:21,933 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@412c995d
- 2022-05-18 11:47:21,934 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_a50a85fe-c77e-44f0-92f7-ea031b4f857a.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 11:47:21,936 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@73aff8f1
- 2022-05-18 11:47:21,936 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_65fa8b9c-6d4f-46e8-8cd7-b593fee91e93.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 11:47:21,938 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@27ead29e
- 2022-05-18 11:47:21,938 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_92189107-a4e3-4f33-b52a-0926ba5ece5b.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 11:47:21,939 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@40620d8e
- 2022-05-18 11:47:21,939 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_943fe70a-3ed7-412d-9eea-9ec8d3219fe8.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 11:48:49,636 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@7331196b
- 2022-05-18 11:48:49,922 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@6b04acb2
- 2022-05-18 11:48:49,923 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_7b471a7b-e7be-4444-84ce-9b6cebff432d.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 11:48:49,926 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@2f4919b0
- 2022-05-18 11:48:49,926 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_3fadca74-2f90-4c77-bc59-e7860ed90497.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 11:48:49,928 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@75b21c3b
- 2022-05-18 11:48:49,928 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_1ef1b86e-298e-4a44-9d64-044bfc440133.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 11:48:49,929 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@155d1021
- 2022-05-18 11:48:49,930 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_e160c408-0c3c-45d9-8afc-d0da369e3dd9.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 11:48:51,560 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - java.lang.ArithmeticException: / by zero
- 2022-05-18 11:54:55,366 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@3f9342d4
- 2022-05-18 11:54:55,581 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@18388a3c
- 2022-05-18 11:54:55,582 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_5225a957-5c3d-46d9-b8a4-fa9a89a6dbfa.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 11:54:55,584 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@a8a8b75
- 2022-05-18 11:54:55,584 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_880c67fc-eed8-4e81-a7ea-6650dfef019e.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 11:54:55,586 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@72be135f
- 2022-05-18 11:54:55,586 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_039399cf-3646-4b82-b1ac-0b8e945496df.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 11:54:55,587 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@4bd2f0dc
- 2022-05-18 11:54:55,588 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_e1d73dd4-0090-4602-958b-f90c49362875.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 11:55:01,269 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - java.lang.ArithmeticException: / by zero
- 2022-05-18 12:24:37,511 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@3ad2e17
- 2022-05-18 12:27:55,457 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@31c7528f
- 2022-05-18 12:28:00,933 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - java.lang.ArithmeticException: / by zero
- 2022-05-18 12:31:01,604 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@2cc44ad
- 2022-05-18 12:31:01,858 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@27f1bbe0
- 2022-05-18 12:31:01,858 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_6c9ea058-0eec-4fd9-99a1-707cfa568aa8.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:01,861 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@278f8425
- 2022-05-18 12:31:01,861 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_6bd88086-5ff0-4023-888b-85c66cca93e7.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:01,865 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@4b1abd11
- 2022-05-18 12:31:01,865 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_c60bd734-438c-4840-96f5-557a006635c9.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:07,372 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_f0c9d300-c9d2-4b37-9b23-2d45156a6329.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:07,373 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_a1aedba0-7efa-45a3-b2fd-bc903c1bbb68.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:07,375 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_51512d42-cd3e-450b-9c1f-0560d2eb90a6.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:08,373 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_1242ddfc-0864-469c-a8a4-7476584de216.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:08,386 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_1aeb0a2c-3974-4587-ad1f-cbcf0649f744.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:08,388 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_3ea2380c-809a-4879-9c14-44529f123b59.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:10,433 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_1c09652a-ee39-4f4c-911d-01e75d5d572f.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:10,435 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_7e08f2f9-926a-4c94-af47-71e42e3e662e.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:10,439 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_d739e360-11f9-4c30-b704-42133ddcd40d.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:11,467 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_448972c9-c0be-42d0-947f-48b43faf97bc.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:11,475 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_0f156c76-5fa9-4271-a398-afc3d2a1aebe.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:11,479 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_2b5a6089-8bc6-4b5b-84b8-2c43c9ff7367.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:11,482 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_fb914d99-80fc-4cc9-9265-a62d467c691c.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:12,484 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_e53982d8-fec3-4ead-946f-16d620b4182f.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:12,487 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_a22f1fb0-0eb9-4639-9818-0ffd5192a00a.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:12,489 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_8c5e4b75-6765-4361-818e-32d8a6aceafa.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:12,492 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_234f51ab-08f9-434b-83bc-eb1f90d78456.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:12,891 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_4ab2ff1b-4673-44af-a4ee-381c9312b524.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 12:31:13,982 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - java.lang.NullPointerException: Cannot invoke "String.lastIndexOf(int)" because "testSuiteName" is null
- 2022-05-18 12:38:11,910 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@50d13246
- 2022-05-18 12:38:18,206 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - java.lang.ArithmeticException: / by zero
- 2022-05-18 12:56:52,606 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@421bba99
- 2022-05-18 12:57:06,369 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@77258e59
- 2022-05-18 13:10:15,858 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@63dd899
- 2022-05-18 13:10:16,124 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@2d84cb86
- 2022-05-18 13:10:16,124 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_9c26bcc0-5362-4919-9783-d8ad6b104e2d.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:16,127 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@6443b128
- 2022-05-18 13:10:16,127 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_2ce06687-52b1-49e4-8fa9-c85550921f66.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:16,130 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@40021799
- 2022-05-18 13:10:16,130 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_4fbb0b0d-15ea-485e-bb8c-4a5717064b81.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:23,018 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : C5u30YYiT7requesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:10:23,020 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_38863b43-d6ee-450e-bfcd-8d4722ba8fcb.html'>HTTP status check failure</a>
- 2022-05-18 13:10:23,115 [main] INFO com.report.SentinelLogger - hosturl= https://adconfig.wynk.in/wynk/ads/v3/adsConfig headers=  resCode: 407 resMsg: <HEAD><TITLE>Proxy Authorization Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Proxy Authorization Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-Description: Authorization is required for access to this proxy</B></FONT>
-<HR>
-<!-- default "Proxy Authorization Required" response (407) -->
-</BODY>
-                                                                                                                                                                                                                                                                                                                                                         
- 2022-05-18 13:10:23,117 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_51cdd961-ce98-4311-b223-2d12cb7256be.html'>HTTP status check failure</a>
- 2022-05-18 13:10:23,134 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_6cc86863-2c47-4eba-9e8f-f3c19e43fc46.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:23,136 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_7533a584-fe00-411b-b423-12965e81be41.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:23,137 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_399a468b-0631-4c0a-966f-7e0983b170e7.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:25,162 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : bXxClORRORrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:10:25,164 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_44a62b97-4e29-4d2b-9045-b8fc233dfc24.html'>HTTP status check failure</a>
- 2022-05-18 13:10:25,167 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_45173396-7046-4745-bf94-14365ec2a63e.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:25,170 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_3a463d04-0d32-4b0e-b91b-20225a3f6dbf.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:25,171 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_03d40a05-d142-440e-a618-ec3072986b8d.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:27,102 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : eRiDI0lxbArequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:10:27,104 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_b658a8b5-d097-4050-ad7a-61b2d228e717.html'>HTTP status check failure</a>
- 2022-05-18 13:10:29,255 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : nbolLWBfRLrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:10:29,257 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_742c324c-084e-43ce-a66c-5c3509d8b005.html'>HTTP status check failure</a>
- 2022-05-18 13:10:29,266 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_cc209186-7e46-473d-8e7a-1044381f0417.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:29,269 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_c7894722-df6d-4276-8d3d-b72f2a26603f.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:29,271 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_ed2cc0eb-7abd-483d-b0bb-abde2c12909b.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:31,436 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : pKum42nw3Wrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:10:31,437 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_5070db6b-5b0b-4b87-a01a-bbe28fc63251.html'>HTTP status check failure</a>
- 2022-05-18 13:10:31,439 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_48ec6d6d-0ece-4b65-b914-6a7b414cf6b8.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:31,441 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_a46bd2f2-d0bc-45f6-af0d-2c657ab17771.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:31,442 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_44a7d082-ea67-404d-83f1-7f24cf6a9bf6.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:31,444 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_d7d9fa3f-7f5a-4920-93a7-bcc791bcf20a.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:33,429 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : ex7VNca59Wrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:10:33,430 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_40c90c97-59c3-42a4-87e4-dc060f202a5a.html'>HTTP status check failure</a>
- 2022-05-18 13:10:33,433 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_b2418bbc-c809-44ac-a55c-16a4b0bef937.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:33,436 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_92e8b79d-676d-4d97-8036-66f1806aa95b.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:33,438 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_d9405476-8dff-48cf-b3ee-b73ddd54bc02.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:33,441 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_2707029f-db54-46ab-9b35-3d0d63e9f5b3.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:33,826 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_fc376d81-debf-4720-b0f5-1d43c9a59a7a.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:10:35,687 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : CVBi3M6pjprequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:10:35,688 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_71b2158d-0a0c-46e7-bd7c-7ace137815ff.html'>HTTP status check failure</a>
- 2022-05-18 13:10:35,835 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - java.lang.NullPointerException: Cannot invoke "String.lastIndexOf(int)" because "testSuiteName" is null
- 2022-05-18 13:11:10,823 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@71529963
- 2022-05-18 13:11:16,493 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@421bba99
- 2022-05-18 13:13:08,393 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@663411de
- 2022-05-18 13:13:08,665 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@7004e3d
- 2022-05-18 13:13:08,666 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_625a6c43-dd30-4da3-b209-647890485515.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:08,669 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@3f36b447
- 2022-05-18 13:13:08,669 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_4352e0a9-59fa-475c-9d26-ca8789ca9f48.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:08,672 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@5eeedb60
- 2022-05-18 13:13:08,672 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_ea676807-5d9b-4919-b10b-606e9df5152d.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:16,292 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : NEJACpwvVArequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:13:16,294 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_d5e8c2ea-fe72-4417-b5c6-d0b27ac037bc.html'>HTTP status check failure</a>
- 2022-05-18 13:13:16,384 [main] INFO com.report.SentinelLogger - hosturl= https://adconfig.wynk.in/wynk/ads/v3/adsConfig headers=  resCode: 407 resMsg: <HEAD><TITLE>Proxy Authorization Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Proxy Authorization Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-Description: Authorization is required for access to this proxy</B></FONT>
-<HR>
-<!-- default "Proxy Authorization Required" response (407) -->
-</BODY>
-                                                                                                                                                                                                                                                                                                                                                         
- 2022-05-18 13:13:16,386 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_5ee74ddb-a35c-4444-90c1-ee799584006b.html'>HTTP status check failure</a>
- 2022-05-18 13:13:16,394 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_598906d1-9322-44ab-ae85-482731c9306c.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:16,395 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_9ac0bd24-a158-4f0d-ba20-c26bcea68dd9.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:16,396 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_7bd843ab-28d5-4203-94ba-8e43d5f2c40b.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:18,386 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : 6tRjne0nmRrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:13:18,388 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_eaea41a6-e065-4ea6-8898-fd27f8fa8a92.html'>HTTP status check failure</a>
- 2022-05-18 13:13:18,392 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_61d1406c-f6a2-4bcd-8250-b20c968aee8b.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:18,393 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_2f8b2ae4-bb44-4cbb-8122-fab6ae3f2b76.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:18,395 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_27db6a8e-b7e5-47fe-a129-0b3ac00d495e.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:20,861 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : OPpvEQAqXurequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:13:20,862 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_afe5118f-1a81-441b-85f9-802039053f35.html'>HTTP status check failure</a>
- 2022-05-18 13:13:24,556 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : M7O4McjX0trequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:13:24,558 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_76f8afea-26cc-45f2-93d5-6a887b3c8ef8.html'>HTTP status check failure</a>
- 2022-05-18 13:13:24,565 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_13b247a5-8ba3-449a-a9f3-17e2591f486d.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:24,567 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_da4d2815-0975-480b-b27e-b5c9f5a7fdde.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:24,568 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_9e1858af-278d-4b26-a273-87abe6d0bd85.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:30,855 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : RMLXhJoFaErequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:13:30,857 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_02d668ab-9de2-442d-b2f6-50079eecd1f2.html'>HTTP status check failure</a>
- 2022-05-18 13:13:30,861 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_715d84bd-aa2f-474c-9a7c-cf080e8beaeb.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:30,864 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_c83f19ed-f3fa-4886-a939-7e495ca4fe78.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:30,867 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_a9f3fcba-c522-4149-aa6d-865a76d7c989.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:30,870 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_a19ab254-8998-4bd6-9635-6484f859244b.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:32,718 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : QGbnimBjrGrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:13:32,721 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_43cecdda-4810-4daa-8b06-d11c93f80db5.html'>HTTP status check failure</a>
- 2022-05-18 13:13:32,724 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_a8f8f550-1426-4cff-84d1-16375914f251.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:32,727 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_e7035d83-f8c8-4a01-b112-96e91f0f54d4.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:32,729 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_6a10d3dc-075d-40bb-af7c-20adee382ceb.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:32,731 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_179916d4-d659-4714-b5b4-b60878ae70cf.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:33,111 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_c0d0f66a-2166-4566-8b47-97b199d21659.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:13:34,961 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : Pc37cS48aqrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:13:34,963 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_88fd7596-8e3f-4a9a-bb79-94daa525ed9a.html'>HTTP status check failure</a>
- 2022-05-18 13:13:35,122 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - java.lang.NullPointerException: Cannot invoke "String.lastIndexOf(int)" because "testSuiteName" is null
- 2022-05-18 13:14:02,831 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@4982cc36
- 2022-05-18 13:15:17,138 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@63dd899
- 2022-05-18 13:15:17,428 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@2d84cb86
- 2022-05-18 13:15:17,429 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_1e8a5d70-2f2e-42c1-bbb8-c2109ad41770.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:17,431 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@6443b128
- 2022-05-18 13:15:17,431 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_bed63396-3729-4cd3-a137-38d9c4efb159.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:17,433 [main] ERROR com.airtel.helper.report.ReportHelper - Append to HTML failed - [Ljava.lang.StackTraceElement;@40021799
- 2022-05-18 13:15:17,433 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_804cf75b-d141-4fcc-949b-c1e26ea22a57.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:24,496 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : i2BiTxd2DGrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:15:24,497 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_06c70962-d6d7-4e47-acee-1c2a9959038c.html'>HTTP status check failure</a>
- 2022-05-18 13:15:24,659 [main] INFO com.report.SentinelLogger - hosturl= https://adconfig.wynk.in/wynk/ads/v3/adsConfig headers=  resCode: 407 resMsg: <HEAD><TITLE>Proxy Authorization Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Proxy Authorization Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-Description: Authorization is required for access to this proxy</B></FONT>
-<HR>
-<!-- default "Proxy Authorization Required" response (407) -->
-</BODY>
-                                                                                                                                                                                                                                                                                                                                                         
- 2022-05-18 13:15:24,660 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_2ecae40e-b91a-4133-8d92-7429ebedd166.html'>HTTP status check failure</a>
- 2022-05-18 13:15:24,668 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_8e3eb114-28ea-4e3f-9001-e494b2a14df2.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:24,670 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_10311410-916d-425b-bc19-b45bddfdabaf.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:24,672 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_b7f999f4-6e24-43ae-b7ba-afea2479ae39.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:26,768 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : yyaRxjwZzLrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:15:26,770 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_5a9a43e4-d348-4889-8db9-1ff0a6c63b99.html'>HTTP status check failure</a>
- 2022-05-18 13:15:26,776 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_f3bd8154-5114-4fea-8579-8c052975f918.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:26,778 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_ea8c22fc-4641-4563-a663-064db40987e5.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:26,780 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_57c10d1d-7d28-4917-b5fb-8dfb36522b92.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:28,757 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : IEA2F6C7cirequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:15:28,759 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_d36f1b95-da16-48fa-8ada-68328387f083.html'>HTTP status check failure</a>
- 2022-05-18 13:15:30,708 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : TPwhKJIqd7requesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:15:30,710 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_3143db43-dab6-4fd6-84f5-9996e2168f09.html'>HTTP status check failure</a>
- 2022-05-18 13:15:30,716 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_dfcf8ac7-4774-490d-b926-0d25167a76da.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:30,729 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_3561e5d8-7c6a-4576-a29a-2d5581e1cb4b.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:30,732 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_b498d058-7285-4ca8-9374-c6d8527ffbf7.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:32,954 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : tnTvkUJHtkrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:15:32,957 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_16ddfac3-ea33-49fd-9990-d64532bc1693.html'>HTTP status check failure</a>
- 2022-05-18 13:15:32,961 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_2787994b-2033-48e6-9bc0-8fb108ea9d74.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:32,964 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_653bcdf9-26e9-4d5a-af48-25d18898a837.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:32,966 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_b70fa42c-e703-413e-ab1d-5fb2e72b17f9.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:32,968 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_04aba182-6bb4-488d-ad71-88dc9fbdbefc.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:35,134 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : M3PWPN6v1Yrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:15:35,138 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_48bdde87-202f-4faa-90b7-d2c59625f402.html'>HTTP status check failure</a>
- 2022-05-18 13:15:35,147 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_6cfafd44-ce78-43c8-99f9-dd416cb323db.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/billing/billingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:35,149 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_346e1cc5-b43c-4bba-ae38-c1485db4496f.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/order/orderTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:35,152 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_a3e431aa-1c25-4c21-af8e-5e2c37a79931.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:35,155 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_829837c3-c161-4fbc-b75b-714f4cd6c613.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/payment/paymentTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:39,563 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_d7baff5a-9173-4047-969b-3c3a7a315fab.html'>java.io.FileNotFoundException: /Users/b0216523/Documents/adtech/BackEndAutomationProject/adtech-api-automation-master@18dad5e58c0/config/onboarding/onboardingTestData.properties (No such file or directory)</a>
- 2022-05-18 13:15:41,669 [main] INFO com.report.SentinelLogger - hosturl= http://10.5.74.80:8021/team-iam/v1/signup/user headers= googleCookie : google.comuserId : mbRplM7HJKrequesterid : comsiteadsHeader : adsHeaderapp-id : TEAMbrowser : chromemachine : mac resCode: 307 resMsg: <HEAD><TITLE>Authentication Required</TITLE></HEAD>
-<BODY BGCOLOR="white" FGCOLOR="black"><H1>Authentication Required</H1><HR>
-<FONT FACE="Helvetica,Arial"><B>
-</B></FONT>
-<HR>
-<!-- default "Authentication Required" response (307) -->
-</BODY>
-
- 2022-05-18 13:15:41,672 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_2cb32af2-0a77-4325-9ea4-4a383896d4cf.html'>HTTP status check failure</a>
- 2022-05-18 13:15:41,976 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - java.lang.NullPointerException: Cannot invoke "String.lastIndexOf(int)" because "testSuiteName" is null
- 2022-05-18 13:16:30,316 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@421bba99
+2022-07-19 16:02:17,569 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 16:02:31,872 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-19 16:02:40,080 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 16:02:43,266 [main] INFO com.report.SentinelLogger - hosturl= https://adtech-personalization-staging.wynk.in/campaign/api/getOrderedList headers=  resCode: 400 resMsg: {
+  "success": false,
+  "error": {
+    "code": 400303,
+    "message": "User Id should have \u0027B\u0027 as a prefix."
+  }
+}
+ 2022-07-19 16:02:54,546 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-19 16:03:51,265 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 16:03:53,537 [main] INFO com.report.SentinelLogger - hosturl= https://adtech-personalization-staging.wynk.in/campaign/api/getOrderedList headers=  resCode: 200 resMsg: [
+  {
+    "adspot": "adspot3",
+    "campaigns": []
+  },
+  {
+    "adspot": "adspot1",
+    "campaigns": []
+  },
+  {
+    "adspot": "adspot2",
+    "campaigns": []
+  }
+]
+ 2022-07-19 16:04:04,863 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-19 16:05:34,477 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 16:05:39,078 [main] INFO com.report.SentinelLogger - hosturl= https://adtech-personalization-staging.wynk.in/campaign/api/getOrderedList headers=  resCode: 400 resMsg: {
+  "success": false,
+  "error": {
+    "code": 400303,
+    "message": "User Id should have \u0027B\u0027 as a prefix."
+  }
+}
+ 2022-07-19 16:05:50,399 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-19 16:37:31,358 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 16:37:35,736 [main] INFO com.report.SentinelLogger - hosturl= https://adtech-personalization-staging.wynk.in/campaign/api/getOrderedList headers=  resCode: 400 resMsg: {
+  "success": false,
+  "error": {
+    "code": 400303,
+    "message": "User Id should have \u0027B\u0027 as a prefix."
+  }
+}
+ 2022-07-19 16:37:47,029 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-19 18:12:33,147 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 18:13:51,544 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-19 18:15:20,770 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 18:15:23,956 [main] INFO com.report.SentinelLogger - hosturl= https://adtech-personalization-staging.wynk.in/campaign/api/getOrderedList headers=  resCode: 400 resMsg: {
+  "success": false,
+  "error": {
+    "code": 400303,
+    "message": "User Id should have \u0027B\u0027 as a prefix."
+  }
+}
+ 2022-07-19 18:15:23,965 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_5cdd8367-7be9-4abe-a824-71e722b819f4.html'>https://airteldigital.atlassian.net/projects/ADT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testPlayer/ADT-R6</a>
+ 2022-07-19 18:15:35,302 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-19 18:16:39,452 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 18:16:42,503 [main] INFO com.report.SentinelLogger - hosturl= https://adtech-personalization-staging.wynk.in/campaign/api/getOrderedList headers=  resCode: 400 resMsg: {
+  "success": false,
+  "error": {
+    "code": 400303,
+    "message": "User Id should have \u0027B\u0027 as a prefix."
+  }
+}
+ 2022-07-19 18:16:42,507 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_2e3659d7-040d-45f4-8dcf-a7ce13186f37.html'>https://airteldigital.atlassian.net/projects/ADT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/testPlayer/ADT-R6</a>
+ 2022-07-19 18:16:53,787 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-19 18:17:48,359 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 18:17:51,565 [main] INFO com.report.SentinelLogger - hosturl= https://adtech-personalization-staging.wynk.in/campaign/api/getOrderedList headers=  resCode: 400 resMsg: {
+  "success": false,
+  "error": {
+    "code": 400303,
+    "message": "User Id should have \u0027B\u0027 as a prefix."
+  }
+}
+ 2022-07-19 18:17:51,567 [main] ERROR com.report.SentinelLogger - <a href='./comparatorReport//compareResult_2c39334d-0392-40e3-8d82-93d5e1d26c6d.html'>Incorrect status code</a>
+ 2022-07-19 18:18:02,817 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
+ 2022-07-19 18:20:14,786 [main] ERROR com.airtel.helper.logging.AirtelLoggingMgr - [Ljava.lang.StackTraceElement;@6d3a388c
+ 2022-07-19 18:20:18,011 [main] INFO com.report.SentinelLogger - hosturl= https://adtech-personalization-staging.wynk.in/campaign/api/getOrderedList headers=  resCode: 400 resMsg: {
+  "success": false,
+  "error": {
+    "code": 400303,
+    "message": "User Id should have \u0027B\u0027 as a prefix."
+  }
+}
+ 2022-07-19 18:20:29,449 [main] ERROR com.airtel.helper.report.ReportHelper - Unable to close result file - org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: connect timed out
  
