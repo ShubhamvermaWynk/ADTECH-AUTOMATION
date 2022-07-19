@@ -101,7 +101,6 @@ public class CommonApi extends BaseManager {
 		Response responseObj = getResponseWithHeaders(queryParams, requestHeader, serviceUrl, checkStatus);
 
 		return responseObj;
-		
 	}
 
 	public static List<Header> generateHeader(boolean isComsiteHeader, String ivUser, String uniqueidentifier) {
