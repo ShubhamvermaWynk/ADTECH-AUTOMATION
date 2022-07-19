@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test Suite" parallel="classes"
+	thread-count="1">
+	<parameter name="testType" value="regression" />
+	<test name="team-iam-login">
+		<classes>
+		<class name="com.airtel.RestAssured.Teams.Tests.LoginTest"></class>
+		</classes>
+	</test>
+	<test name="airtel-authenticator-signup">
+		<classes>
+			<class name="com.airtel.RestAssured.Teams.Tests.SignUpTest"></class>
+		</classes>
+	</test>
+
+	<test name="EV-iam">
+		<groups>
+			<run>
+				<include name="iam"  />
+			</run>
+		</groups>
+
+		<classes>
+			<class name="com.airtel.RestAssured.Teams.Tests.EmailVerificationTest"></class>
+		</classes>
+	</test>
+
+	<test name="team-iam-v2">
+		<classes>
+			<class name="com.airtel.RestAssured.Teams.Tests.iam.IdentityTest"></class>
+		</classes>
+	</test>
+
+	<test name="team-iam-user">
+		<classes>
+			<class name="com.airtel.RestAssured.Teams.Tests.iam.UsersTest"></class>
+		</classes>
+	</test>
+
+	<test name="Client-Redirection">
+		<classes>
+			<class name="com.airtel.RestAssured.Teams.Tests.iam.ClientRedirectionTest"></class>
+		</classes>
+	</test>
+</suite>

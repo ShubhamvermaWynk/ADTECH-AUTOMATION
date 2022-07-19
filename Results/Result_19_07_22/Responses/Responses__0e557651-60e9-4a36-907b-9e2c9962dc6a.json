@@ -1,7 +1,0 @@
-{
-  "success": false,
-  "error": {
-    "code": 400303,
-    "message": "User Id should have \u0027B\u0027 as a prefix."
-  }
-}
