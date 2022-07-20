@@ -2,7 +2,6 @@ package com.adtech.restAssured.tests.personalisation;
 
 import java.util.Properties;
 
-import org.apache.poi.util.SystemOutLogger;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Optional;
