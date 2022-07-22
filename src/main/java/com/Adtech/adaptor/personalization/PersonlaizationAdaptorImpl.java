@@ -1,14 +1,8 @@
 package com.Adtech.adaptor.personalization;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 import java.util.Properties;
 
 import com.Adtech.constants.AdtechApiConstants;
-import com.Adtech.dto.personalization.AdspotCampaignDTO;
 import com.Adtech.dto.personalization.GetOrderListRequestDTO;
 import com.Adtech.manager.PersonalizationApiManager;
 import com.common.utils.CommonApi;

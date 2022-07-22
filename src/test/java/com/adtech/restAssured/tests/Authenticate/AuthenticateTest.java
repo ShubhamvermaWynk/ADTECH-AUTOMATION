@@ -4,6 +4,7 @@ import com.Adtech.adaptor.Authenticate.AuthenticateAdaptorImpl;
 import com.Adtech.manager.AuthenticateApiManager;
 import com.airtel.helper.report.ReportHelper;
 import com.common.utils.CommonApi;
+import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
@@ -26,9 +27,8 @@ public class AuthenticateTest extends ReportHelper {
     }
 
     @Test
-    public void TestAuthenticationAPIStatus()
-    {
-        System.out.println(authenticateAdaptor.getAuthenticateServiceResponse().statusCode());
-        System.out.println(authenticateAdaptor.getAuthToken());
-    }
+    public void TestAuthenticationAPIStatus() {
+        Assert.assertEquals(authenticateAdaptor.getAuthenticateServiceResponse().statusCode(),200,"Authentication API not working");
+        Assert.assertEquals(authenticateAdaptor.getAuthToken().length(),599, "AuthToken Character limit Exceed");
+}
 }
